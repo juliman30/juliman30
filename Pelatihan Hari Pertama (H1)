@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	TEMPAT WISATA
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Selamat Datang Kepada Tamu Terhormat</h1>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="#destinations
